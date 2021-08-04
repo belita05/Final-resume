@@ -1,0 +1,226 @@
+body{
+    width: 90%;
+    background-color: #888;
+    display: flex;
+}
+.container{
+    padding-left: 30%;
+    
+}
+.About_me p{
+    line-height: 1.6;
+    margin-top: -1rem;
+
+}
+.left{
+    width: 100%;
+    padding-right: 2rem;
+    background-color:rgb(240, 240, 235);
+    height: 100%;
+    align-items: center;
+    text-align: center;
+
+}
+
+.image{
+    width: 40%;
+    padding-left: 2px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.image img{
+    width: 150px;
+    /* object-fit: cover; */
+    object-position: center;
+    align-items: center;
+    padding-left: 60px;
+    padding-top: 10px;
+   
+   
+}
+
+.right{
+width: 40%;
+background-color: aliceblue;
+}
+.name h1{
+padding-left: 2px;    
+color: rgb(117, 98, 98);
+font-weight:100;
+font-style:normal;
+font-size: 40px;
+line-height: 1.5;
+padding-top: -10px !important;
+
+}
+.name h2{
+    font-weight: 90;
+    font-style: oblique;
+    font-size: 16px;
+    margin-top: -2rem;
+
+}
+.name{
+    border-bottom: rgb(102, 65, 65) 0.9px solid;
+    margin-left: 3%;
+    margin-right: 3%;
+   
+}
+
+.About_me{
+    border-bottom: rgb(102, 65, 65) 0.9px solid;
+
+    margin-left: 3%;
+    margin-right: 3%;
+
+
+}
+.About_me h2{
+    text-transform: uppercase;
+    color: rgb(117, 98, 98);
+    font-size: large;
+    padding-bottom: 4px !important;
+}
+.Qualification h2{
+    text-transform: uppercase;
+    color: rgb(117, 98, 98);
+    font-size: large;
+}
+.Qualification{
+    border-bottom: rgb(102, 65, 65) 0.9px solid;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-bottom: 15px;
+}
+
+.Clubs h2{
+    text-transform: uppercase;
+    color: rgb(117, 98, 98);
+    font-size: large;
+
+}
+.Clubs{
+    border-bottom: rgb(102, 65, 65) 0.9px solid;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-bottom: -2px;
+    padding-bottom: 10px;
+    margin-bottom: 3px;
+}
+.right{
+    padding-left: 3%;
+    padding-top: 3%;
+}
+.contacts li{
+    list-style-type: none;
+    padding-left: -2px;
+    padding-bottom: 5px;
+    color:rgb(112, 108, 104);
+
+}
+.contacts{
+padding-top: 4%;
+border-bottom: rgb(102, 65, 65) 0.9px solid;
+margin-left: 3%;
+margin-right: 3%;
+padding-bottom: 14px;
+
+}
+.contacts h2{
+    color: rgb(117, 98, 98);
+    font-size: large;
+
+
+}
+
+.edu{
+    /* line-height: 10px; */
+  color: rgb(36, 34, 34);
+  border-bottom: rgb(102, 65, 65) 0.9px solid;
+  padding-bottom: 36px;
+  margin-left: 3%;
+margin-right: 3%;padding-top: 2%;
+line-height: 1.6;
+
+
+}
+.edu h2{
+
+    color: rgb(117, 98, 98) !important;
+    font-size: large;
+    text-transform: uppercase;
+    margin: 0px;
+    line-height: 40px;
+    line-height: 1.6;
+}
+
+.edu h3{
+    font-weight:700;
+    font-size:medium;
+    color: rgb(58, 56, 56);
+    margin: 0px;
+    line-height: 35px;
+    line-height: 1.6;
+
+    
+}
+.edu h5{
+    font-weight: 600;
+    margin: 0px;
+    line-height: 35px;
+    line-height: 1.6;
+
+}
+.exp{
+    border-bottom: rgb(102, 65, 65) 0.9px solid;
+    color:#888;
+    font-style: oblique ;
+    line-height: 1.5;
+    padding-bottom: 36px;
+  
+    
+}
+.exp h2{
+    font-style:normal !important ;
+    color: rgb(51, 49, 49) ;
+    font-size: large;
+    text-transform: uppercase;
+    line-height: 1.6;
+    text-transform: uppercase;
+    color: rgb(117, 98, 98) !important;
+    font-size: large;
+    margin-bottom: -1rem; 
+  
+   
+}
+
+.exp h4{
+    color: rgb(71, 69, 69);
+    font-style:normal !important ;
+    line-height: 1.6;
+    /* margin-top: -1rem;*/
+    margin-bottom: .1rem; 
+
+    
+}
+
+
+.skills h2{
+    color: rgb(117, 98, 98) !important;
+    font-size: large;
+    text-transform: uppercase;
+    margin: 0px;
+    line-height: 40px;
+    line-height: 1.6;
+}
+
+.icon{
+
+margin: 0 10px;
+padding-right: 2px;
+color:rgb(112, 108, 104);
+/* padding-left: 3em; */
+}
